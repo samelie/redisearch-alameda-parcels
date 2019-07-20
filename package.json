@@ -1,0 +1,18 @@
+{
+  "name": "alameda-parcels",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sam@add.dog",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.1.0",
+    "bluebird": "^3.5.5",
+    "dotenv": "^8.0.0",
+    "list-files-in-dir": "^0.1.5",
+    "redis": "^2.8.0",
+    "redis-redisearch": "^1.0.1",
+    "redisearchclient": "^1.0.1",
+    "string": "^3.3.3",
+    "yargs": "^13.3.0"
+  }
+}
