@@ -5,7 +5,7 @@
   "author": "sam@add.dog",
   "license": "MIT",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "bluebird": "^3.5.5",
     "dotenv": "^8.0.0",
     "list-files-in-dir": "^0.1.5",
